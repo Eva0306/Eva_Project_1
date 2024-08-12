@@ -1,0 +1,77 @@
+"ChangeLanguangeItem.title" = "中";
+
+// Catalog Page
+
+"gQ0-6R-wHh.title" = "型錄";
+"aPY-1g-c1t.configuration.title" = "女裝";
+"znw-pw-ysS.configuration.title" = "男裝";
+"dyI-So-EPa.configuration.title" = "配件";
+
+//Detail Page
+"8py-Ee-eBs.configuration.title" = "加入購物車";
+
+//Add To Cart Page
+"Wpl-lE-dbe.text" = "選擇顏色";
+"u1a-93-4KZ.text" = "選擇尺寸";
+"PnU-aa-Pw7.text" = "選擇數量";
+"stockWithoutQuantity" = "庫存：-";
+"stockWithQuantity" = "庫存：%d";
+
+// Cart Page
+"4O1-lk-EMA.title" = "購物車";
+"mmG-CK-S8e.title" = "登出";
+"GnC-FW-hqq.configuration.title" = "前往結帳";
+"U98-6G-Ssp.normalTitle" = "移除";
+
+// Checkout Page
+"HeaderForCheckoutProducts" = "結帳商品";
+"HeaderForReceiverInfo" = "收件資訊";
+"HeaderForPaymentInfo" = "付款詳情";
+
+"Ngk-mF-l3Y.title" = "結帳";
+"yxk-v7-ZQi.text" = "收件資訊";
+"baI-YI-cw0.text" = "收件人姓名";
+"hvp-0t-tsu.text" = "手機號碼";
+"f5h-G5-axn.text" = "地址";
+"zr7-ep-EQW.text" = "配送時間";
+"R9D-Ap-zpH[2].title" = "不指定";
+"da4-NM-yrP.text" = "付款方式";
+"PaymentMethod.creditCard" = "信用卡付款";
+"PaymentMethod.cash" = "貨到付款";
+"yvu-dx-COl.text" = "商品總金額";
+"hPR-LJ-9ws.text" = "運費總金額";
+"8ov-ov-dSM.text" = "總計 (%d樣商品)";
+"Jg8-e7-47O.title" = "確定結帳";
+
+// Success Page
+"wus-X5-8ZB.title" = "結帳結果";
+"dkv-RB-QfG.text" = "結帳成功";
+"0rE-uI-kXg.text" = "我們收到您的訂單了！將以最快的速度為您安排出貨。";
+"g3D-AL-iaF.configuration.title" = "再去逛逛";
+
+// Login Page
+"FpI-1q-Ccg.text" = "請先登入會員";
+"x1S-Od-uRm.profile.text" = "登入會員後即可使用個人功能";
+"x1S-Od-uRm.checkout.text" = "登入會員後即可完成結帳";
+"eFe-XP-ca0.configuration.title" = "Facebook 登入";
+
+// Profile Page
+"qNA-Ve-5Bx.title" = "個人";
+"vqA-L9-l1r.text" = "累積消費 NT$ ---";
+"MyOrder.title" = "我的訂單";
+"SeeAllButton.title" = "查看全部";
+"MoreService.title" = "更多服務";
+"MyOrderItem1" = "待付款";
+"MyOrderItem2" = "待出貨";
+"MyOrderItem3" = "待簽收";
+"MyOrderItem4" = "待評價";
+"MyOrderItem5" = "退換貨";
+"MoreService1" = "收藏";
+"MoreService2" = "貨到通知";
+"MoreService3" = "帳戶退款";
+"MoreService4" = "地址";
+"MoreService5" = "客服訊息";
+"MoreService6" = "系統回饋";
+"MoreService7" = "手機綁定";
+"MoreService8" = "設定";
+

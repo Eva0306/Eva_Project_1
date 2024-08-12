@@ -1,0 +1,78 @@
+"ChangeLanguangeItem.title" = "En";
+
+// Catalog Page
+
+"gQ0-6R-wHh.title" = "Catalog";
+"aPY-1g-c1t.configuration.title" = "Women";
+"znw-pw-ysS.configuration.title" = "Men";
+"dyI-So-EPa.configuration.title" = "Accessories";
+
+//Detail Page
+"8py-Ee-eBs.configuration.title" = "Add to Trolley";
+
+//Add To Cart Page
+"Wpl-lE-dbe.text" = "Choose Color";
+"u1a-93-4KZ.text" = "Choose Size";
+"PnU-aa-Pw7.text" = "Choose Amount";
+"stockWithoutQuantity" = "Stock：-";
+"stockWithQuantity" = "Stock：%d";
+
+
+// Cart Page
+"4O1-lk-EMA.title" = "Shopping Cart";
+"mmG-CK-S8e.title" = "Log Out";
+"GnC-FW-hqq.configuration.title" = "Checkout";
+"U98-6G-Ssp.normalTitle" = "Remove";
+
+
+// Checkout Page
+"HeaderForCheckoutProducts" = "Checkout Products";
+"HeaderForReceiverInfo" = "Receiver Info";
+"HeaderForPaymentInfo" = "Payment Info";
+
+"Ngk-mF-l3Y.title" = "Checkout";
+"yxk-v7-ZQi.text" = "Receiver Info";
+"baI-YI-cw0.text" = "Full Name";
+"hvp-0t-tsu.text" = "Phone Number";
+"f5h-G5-axn.text" = "Address";
+"zr7-ep-EQW.text" = "Delivery Time";
+"R9D-Ap-zpH[2].title" = "unspecified";
+"da4-NM-yrP.text" = "Payment Method";
+"PaymentMethod.creditCard" = "Credit Card Payment";
+"PaymentMethod.cash" = "Cash on delivery";
+"yvu-dx-COl.text" = "Total Product Amount";
+"hPR-LJ-9ws.text" = "Total Freight";
+"8ov-ov-dSM.text" = "Total Amount (%d units)";
+"Jg8-e7-47O.title" = "Checkout";
+
+// Success Page
+"wus-X5-8ZB.title" = "Order Summary";
+"dkv-RB-QfG.text" = "Checkout Successful";
+"0rE-uI-kXg.text" = "We have received your order! We will arrange shipment as quickly as possible.";
+"g3D-AL-iaF.configuration.title" = "Shop More";
+
+// Login Page
+"FpI-1q-Ccg.text" = "Please Login First";
+"x1S-Od-uRm.profile.text" = "Unlock More Feature After Login";
+"x1S-Od-uRm.checkout.text" = "Finish Purchase After Login";
+"eFe-XP-ca0.configuration.title" = "Facebook Login";
+
+// Profile Page
+"qNA-Ve-5Bx.title" = "Profile";
+"vqA-L9-l1r.text" = "Total spending NT$ ---";
+"MyOrder.title" = "My Orders";
+"SeeAllButton.title" = "See All";
+"MoreService.title" = "More Services";
+"MyOrderItem1" = "Wait for payment";
+"MyOrderItem2" = "Wait for shipping";
+"MyOrderItem3" = "Wait for signing";
+"MyOrderItem4" = "Wait for reviewing";
+"MyOrderItem5" = "Wait for returning";
+"MoreService1" = "Collection";
+"MoreService2" = "Notification";
+"MoreService3" = "Refund";
+"MoreService4" = "Address";
+"MoreService5" = "Customer service";
+"MoreService6" = "System Feedback";
+"MoreService7" = "Bind Phone";
+"MoreService8" = "Configuration";

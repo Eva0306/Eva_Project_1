@@ -1,0 +1,186 @@
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "0p1-O5-m2S"; */
+"0p1-O5-m2S.text" = "Name";
+
+/* Class = "UILabel"; text = "我們收到您的訂單了！將以最快的速度為您安排出貨。"; ObjectID = "0rE-uI-kXg"; */
+"0rE-uI-kXg.text" = "我們收到您的訂單了！將以最快的速度為您安排出貨。";
+
+/* Class = "UILabel"; text = "Title Label"; ObjectID = "0xY-Rd-oP2"; */
+"0xY-Rd-oP2.text" = "Title Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "3SG-WT-vox"; */
+"3SG-WT-vox.text" = "Name";
+
+/* Class = "UINavigationItem"; title = "購物車"; ObjectID = "4O1-lk-EMA"; */
+"4O1-lk-EMA.title" = "購物車";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "5U4-zk-1YK"; */
+"5U4-zk-1YK.text" = "Price";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "7jm-41-h4p"; */
+"7jm-41-h4p.text" = "Name";
+
+/* Class = "UIButton"; configuration.title = "加入購物車"; ObjectID = "8py-Ee-eBs"; */
+"8py-Ee-eBs.configuration.title" = "加入購物車";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8py-Ee-eBs"; */
+"8py-Ee-eBs.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Story"; ObjectID = "DdK-JN-dHc"; */
+"DdK-JN-dHc.text" = "Story";
+
+/* Class = "UILabel"; text = "Description Label"; ObjectID = "E9x-O6-9Kx"; */
+"E9x-O6-9Kx.text" = "Description Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "Fnr-9H-bAd"; */
+"Fnr-9H-bAd.text" = "Name";
+
+/* Class = "UILabel"; text = "請先登入會員"; ObjectID = "FpI-1q-Ccg"; */
+"FpI-1q-Ccg.text" = "請先登入會員";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "GaW-wX-gF1"; */
+"GaW-wX-gF1.text" = "1";
+
+/* Class = "UIButton"; configuration.title = "前往結帳"; ObjectID = "GnC-FW-hqq"; */
+"GnC-FW-hqq.configuration.title" = "前往結帳";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "GnC-FW-hqq"; */
+"GnC-FW-hqq.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Hce-Gg-lkb"; */
+"Hce-Gg-lkb.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "JAq-nf-5cn"; */
+"JAq-nf-5cn.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K4u-bR-w9L"; */
+"K4u-bR-w9L.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "結帳"; ObjectID = "Ngk-mF-l3Y"; */
+"Ngk-mF-l3Y.title" = "結帳";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Oti-Lg-xOo"; */
+"Oti-Lg-xOo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "選擇數量"; ObjectID = "PnU-aa-Pw7"; */
+"PnU-aa-Pw7.text" = "選擇數量";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "R6y-D9-GqV"; */
+"R6y-D9-GqV.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "移除"; ObjectID = "U98-6G-Ssp"; */
+"U98-6G-Ssp.configuration.title" = "移除";
+
+/* Class = "UIButton"; normalTitle = "移除"; ObjectID = "U98-6G-Ssp"; */
+"U98-6G-Ssp.normalTitle" = "移除";
+
+/* Class = "UILabel"; text = "ID"; ObjectID = "Wno-pH-h7Q"; */
+"Wno-pH-h7Q.text" = "ID";
+
+/* Class = "UILabel"; text = "選擇顏色"; ObjectID = "Wpl-lE-dbe"; */
+"Wpl-lE-dbe.text" = "選擇顏色";
+
+/* Class = "UILabel"; text = "Description Label"; ObjectID = "XSo-5C-U58"; */
+"XSo-5C-U58.text" = "Description Label";
+
+/* Class = "UIButton"; configuration.title = "女裝"; ObjectID = "aPY-1g-c1t"; */
+"aPY-1g-c1t.configuration.title" = "女裝";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "aPY-1g-c1t"; */
+"aPY-1g-c1t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "顏色"; ObjectID = "bUZ-OG-aMW"; */
+"bUZ-OG-aMW.text" = "顏色";
+
+/* Class = "UIButton"; configuration.title = "XS"; ObjectID = "dKh-bs-WCa"; */
+"dKh-bs-WCa.configuration.title" = "XS";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dKh-bs-WCa"; */
+"dKh-bs-WCa.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "結帳成功"; ObjectID = "dkv-RB-QfG"; */
+"dkv-RB-QfG.text" = "結帳成功";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dr6-ap-Vzm"; */
+"dr6-ap-Vzm.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "配件"; ObjectID = "dyI-So-EPa"; */
+"dyI-So-EPa.configuration.title" = "配件";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "dyI-So-EPa"; */
+"dyI-So-EPa.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "e3w-6o-6C3"; */
+"e3w-6o-6C3.title" = "Item";
+
+/* Class = "UIButton"; configuration.title = "Facebook 登入"; ObjectID = "eFe-XP-ca0"; */
+"eFe-XP-ca0.configuration.title" = "Facebook 登入";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "eFe-XP-ca0"; */
+"eFe-XP-ca0.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "再去逛逛"; ObjectID = "g3D-AL-iaF"; */
+"g3D-AL-iaF.configuration.title" = "再去逛逛";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "g3D-AL-iaF"; */
+"g3D-AL-iaF.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "型錄"; ObjectID = "gQ0-6R-wHh"; */
+"gQ0-6R-wHh.title" = "型錄";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "gdB-0N-dBd"; */
+"gdB-0N-dBd.text" = "Price";
+
+/* Class = "UILabel"; text = "Title Label"; ObjectID = "kGZ-fj-r4y"; */
+"kGZ-fj-r4y.text" = "Title Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "ktU-Yg-miy"; */
+"ktU-Yg-miy.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lRz-6I-CaS"; */
+"lRz-6I-CaS.normalTitle" = "Button";
+
+/* Class = "UITextField"; text = "1"; ObjectID = "lhb-iR-ils"; */
+"lhb-iR-ils.text" = "1";
+
+/* Class = "UIBarButtonItem"; title = "登出"; ObjectID = "mmG-CK-S8e"; */
+"mmG-CK-S8e.title" = "登出";
+
+/* Class = "UINavigationItem"; title = "個人"; ObjectID = "qNA-Ve-5Bx"; */
+"qNA-Ve-5Bx.title" = "個人";
+
+/* Class = "UILabel"; text = "庫存：-"; ObjectID = "qvc-vK-WsC"; */
+"qvc-vK-WsC.text" = "庫存：-";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "rE9-Bv-DpK"; */
+"rE9-Bv-DpK.text" = "Price";
+
+/* Class = "UILabel"; text = "Size"; ObjectID = "tpa-Af-Yq9"; */
+"tpa-Af-Yq9.text" = "Size";
+
+/* Class = "UILabel"; text = "選擇尺寸"; ObjectID = "u1a-93-4KZ"; */
+"u1a-93-4KZ.text" = "選擇尺寸";
+
+/* Class = "UILabel"; text = "Total spending"; ObjectID = "vqA-L9-l1r"; */
+"vqA-L9-l1r.text" = "Total spending";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "wmo-yr-QfU"; */
+"wmo-yr-QfU.text" = "Price";
+
+/* Class = "UINavigationItem"; title = "結帳結果"; ObjectID = "wus-X5-8ZB"; */
+"wus-X5-8ZB.title" = "結帳結果";
+
+/* Class = "UILabel"; text = "登入會員後即可完成結帳"; ObjectID = "x1S-Od-uRm"; */
+"x1S-Od-uRm.text" = "登入會員後即可完成結帳";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "zNl-TN-jbe"; */
+"zNl-TN-jbe.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "男裝"; ObjectID = "znw-pw-ysS"; */
+"znw-pw-ysS.configuration.title" = "男裝";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "znw-pw-ysS"; */
+"znw-pw-ysS.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Variants"; ObjectID = "zpJ-Sd-Qon"; */
+"zpJ-Sd-Qon.text" = "Variants";

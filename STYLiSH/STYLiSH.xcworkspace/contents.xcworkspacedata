@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:STYLiSH/Cart/Model/ProductInCart+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:STYLiSH/Cart/Model/ProductInCart+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:STYLiSH.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
