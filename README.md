@@ -26,7 +26,7 @@ The app includes real-time stock updates to ensure accurate availability of item
 4. Build and run the app on a simulator or connected device.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/Eva0306/Eva_Project_1/refs/heads/master/LICENSE).
 
 ## Contact
 For any questions or feedback, please contact us at: [eva890306@gmail.com](mailto:eva890306@gmail.com)
